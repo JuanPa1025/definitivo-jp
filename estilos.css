@@ -1,0 +1,134 @@
+body{
+    background-color: rgb(202, 250, 148);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    }
+
+
+.icono{
+    float:inline-start;
+    height: 179px;
+    width: 170px;
+    }
+
+.titulo{
+    text-align: center;
+    background-color: rgb(47, 122, 24);
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    justify-content:start;
+    }
+
+.botones{
+    text-align: center;
+    }
+
+.botones a{
+    color: rgb(0, 96, 180);
+    text-align: center;
+    text-decoration: none;
+    padding:  15px 20px;
+    }
+
+.botones a:hover{
+    background-color: rgb(255, 250, 244);
+    color: black;
+    }
+
+.grande{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    }
+
+.info{
+    margin: 0 10px;
+    width: 30%;
+    text-align: justify;
+    }
+
+.info img{
+    height: auto;
+    height: 179px;
+    width: 250px;
+    margin: 2px 60px 2px 60px
+    }
+
+.info button{
+    margin: 2px 80px 2px 80px;
+    color: rgb(205, 205, 255);
+    background-color: rgb(0, 81, 255);
+    border-radius: 50%;
+    padding:  5px 30px;
+    }
+
+.texto{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    }
+
+.Lorem{
+    margin: 0 10px;
+    width: 46%;
+    text-align: justify;
+    }
+
+.xbotox{
+    text-align: center;
+    }
+
+.xbotox button{
+    color: rgb(205, 205, 255);
+    background-color: rgb(0, 81, 255);
+    border-radius: 50%;
+    padding:  5px 30px;
+    }
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    }
+
+.formulario form{
+    text-align: center;
+    margin: 15px 30px;
+    text-align:left;
+    border-radius: 50%;
+    }
+
+.formulario input {
+    padding-inline: 50px;
+    border-top-right-radius: 30%;
+    border-style:dashed;
+    border-color: rgb(131, 131, 238);
+    padding: 7px;
+    }
+
+.formulario label {
+    color: rgb(4, 0, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.tituloform{
+    text-align: center;
+    }
+
+.foter{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px; 
+    }
+    
+
+
+
+
+
+
+
+
+
